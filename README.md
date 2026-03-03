@@ -1,5 +1,5 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22932669)
-# Instructions  
+# Instructions 
 
   ## Question
 Create a function called goodString.
@@ -12,7 +12,7 @@ A string is _good_ if it has the following properties:
 Your function will be given a string S of length N (N >=2) . You have to make it a _good_ string using the following operations. 
 
     - Remove a letter from the beginning of the string.
-    - Remove a letter from the end of the string.
+    - Remove a letter from the end of the string. 
 
 You can apply the either operation, or both on the string S. Now your task is to find out the minimum number of operations to make the string S a _good_ string.
 
